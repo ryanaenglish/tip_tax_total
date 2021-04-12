@@ -1,0 +1,13 @@
+C:\Users\Ryan\source\repos\Tip_Tax_Total\Tip_Tax_Total\bin\Debug\netcoreapp3.1\Tip_Tax_Total.exe
+C:\Users\Ryan\source\repos\Tip_Tax_Total\Tip_Tax_Total\bin\Debug\netcoreapp3.1\Tip_Tax_Total.deps.json
+C:\Users\Ryan\source\repos\Tip_Tax_Total\Tip_Tax_Total\bin\Debug\netcoreapp3.1\Tip_Tax_Total.runtimeconfig.json
+C:\Users\Ryan\source\repos\Tip_Tax_Total\Tip_Tax_Total\bin\Debug\netcoreapp3.1\Tip_Tax_Total.runtimeconfig.dev.json
+C:\Users\Ryan\source\repos\Tip_Tax_Total\Tip_Tax_Total\bin\Debug\netcoreapp3.1\Tip_Tax_Total.dll
+C:\Users\Ryan\source\repos\Tip_Tax_Total\Tip_Tax_Total\bin\Debug\netcoreapp3.1\Tip_Tax_Total.pdb
+C:\Users\Ryan\source\repos\Tip_Tax_Total\Tip_Tax_Total\obj\Debug\netcoreapp3.1\Tip_Tax_Total.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\Tip_Tax_Total\Tip_Tax_Total\obj\Debug\netcoreapp3.1\Tip_Tax_Total.AssemblyInfoInputs.cache
+C:\Users\Ryan\source\repos\Tip_Tax_Total\Tip_Tax_Total\obj\Debug\netcoreapp3.1\Tip_Tax_Total.AssemblyInfo.cs
+C:\Users\Ryan\source\repos\Tip_Tax_Total\Tip_Tax_Total\obj\Debug\netcoreapp3.1\Tip_Tax_Total.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\Tip_Tax_Total\Tip_Tax_Total\obj\Debug\netcoreapp3.1\Tip_Tax_Total.dll
+C:\Users\Ryan\source\repos\Tip_Tax_Total\Tip_Tax_Total\obj\Debug\netcoreapp3.1\Tip_Tax_Total.pdb
+C:\Users\Ryan\source\repos\Tip_Tax_Total\Tip_Tax_Total\obj\Debug\netcoreapp3.1\Tip_Tax_Total.genruntimeconfig.cache
